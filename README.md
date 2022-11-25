@@ -2,7 +2,7 @@
 
 Project 10:
 
-Oue task is to build a scientific calculator that performs all the below listed functionalities.
+Our task is to build a scientific calculator that performs all the below listed functionalities.
 1.	Add, sub, multiply, divide, and mod (%) operations on entered integer or floating type numbers.
 2.	Square root, exponent (power (a, b))
 3.	Sine, cosine, and tangent (Trigonometric functions).
