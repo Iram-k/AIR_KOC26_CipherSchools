@@ -1,12 +1,14 @@
-n=True
 import math
+
+n=True
+
 while (n):
     n=n+1
     print("""Press 
     {'S' or 's'}---FOR START
     {'E' or 'e'}---FOR EXIST
     """)
-    en=str(input('Enter your Choice---'))
+    en=(input('Enter your Choice---'))
     if en=="S" or en=="s":
         print(""" 
             Press -  
